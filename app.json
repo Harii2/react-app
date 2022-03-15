@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "whatsapp-clone",
+    "slug": "whatsapp-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Lovepik_com-401501715-splash.png",
+    "splash": {
+      "image": "./assets/Lovepik_com-401501715-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#332424"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Lovepik_com-401501715-splash.png",
+        "backgroundColor": "#332424"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
